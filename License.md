@@ -7,7 +7,7 @@ Redistribution and use in source and binary forms, with or without modification,
 1. Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
 2. Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
 3. All advertising materials mentioning features or use of this software must display the following acknowledgement:
-This product includes software developed by the ≤Owner>.
+This product includes software developed by the Organization.
 4. Neither the name of the copyright holder nor the names the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 5. Neither the source code nor a binary form it may be used to provide services to a third party that derive their value entirely or primarily from the source code or the binary itself.
 6. The copyright holder has the sole discretion to provide the source code or a binary form with a license that permits a less restrictive or unrestricted use.
