@@ -2,9 +2,12 @@
 
 <img width="20%" src="https://github.com/user-attachments/assets/4a937cf8-3288-4bf0-a4f4-fe079ad0fd6b" alt="GMS logo">
 
+
 ---
 
 **GMS** is a Electronics Circular Economy Service Provider providing you with services around purchasing, repairing and maintenance of consumer and business electronics. 
+
+---
 
 We help Electronics Manufacturers, Mobile Operators, Retailers and Companies of any size with:
 - **Repair Services** for maintenance, damage handling and servicing devices owned or sold 
