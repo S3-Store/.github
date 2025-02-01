@@ -19,3 +19,5 @@ If you want to know more:
 - **Visit our website**: [https://gms.green/](https://gms.green/)
 - **Browse our Open Source Contributions**: [https://github.com/orgs/gms-electronics/repositories](https://github.com/orgs/gms-electronics/repositories)
 - **Contact us if you need help**: [https://gms.green/contactus/](https://gms.green/contactus/)
+
+If not specified differently, our software is licensed under the terms indicated in the license file of the repositories. 
