@@ -20,4 +20,4 @@ If you want to know more:
 - **Browse our Open Source Contributions**: [https://github.com/orgs/gms-electronics/repositories](https://github.com/orgs/gms-electronics/repositories)
 - **Contact us if you need help**: [https://gms.green/contactus/](https://gms.green/contactus/)
 
-If not specified differently, our software is licensed under the terms indicated in the license file of the repositories. 
+If not specified differently, our source code and the binary form of it is licensed under the terms of the [GMS license](https://github.com/gms-electronics/.github/blob/main/License.md).
