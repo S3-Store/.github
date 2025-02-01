@@ -1,2 +1,2 @@
 # .github
-gms.green Github Profile
+The github profile files of [GMS](https://gms.green/).
