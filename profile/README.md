@@ -1,13 +1,18 @@
 
 <br/>
-<img width="20%" src="https://github.com/user-attachments/assets/4a937cf8-3288-4bf0-a4f4-fe079ad0fd6b" alt="GMS logo">
+<img width="20%" src="https://github.com/user-attachments/assets/cf77bbee-ff4f-4b94-9762-d4356ba1f229" alt="S3-Store Logo">
+
+---
+
+The **S3-STORE** is a modern eCommerce System built for today's requirements. 
+
+Our Company **GMS** needed a new platform for our activities and we weren't bought in on going cloud with our customer data. 
+For this reason and many others we created **S3**, a production ready fork of Solidus.
 
 
 ---
 
-**GMS** is a Electronics Circular Economy Service Provider providing you with services around purchasing, repairing and maintenance of consumer and business electronics. 
-
----
+About **GMS**, the maintainer of S3-STORE:
 
 We help Electronics Manufacturers, Mobile Operators, Retailers and Companies of any size with:
 - **Repair Services** for maintenance, damage handling and servicing devices owned or sold 
