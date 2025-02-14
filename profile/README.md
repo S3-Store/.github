@@ -8,7 +8,7 @@ The **S3-STORE** is a modern eCommerce System built for today's requirements.
 
 Our Company **GMS** needed a new platform for our activities and we weren't bought in on going cloud with our customer data. 
 For this reason and many others we created **S3**, a production ready fork of Solidus.
-
+We would like to personally dedicate this website to Blish, Nebulab and Super Good, three companies without Solidus and therefor also S3 wouldn't exist. 
 
 ---
 
