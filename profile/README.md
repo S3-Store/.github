@@ -1,6 +1,6 @@
 
 <br/>
-<img width="20%" src="https://github.com/user-attachments/assets/cf77bbee-ff4f-4b94-9762-d4356ba1f229" alt="S3-Store Logo">
+<img width="40%" src="https://github.com/user-attachments/assets/cf77bbee-ff4f-4b94-9762-d4356ba1f229" alt="S3-Store Logo">
 
 ---
 
