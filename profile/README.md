@@ -10,6 +10,11 @@ Our Company **GMS** needed a new platform for our activities and we weren't boug
 For this reason and many others we created **S3**, a production ready fork of Solidus.
 We would like to personally dedicate this website to Blish, Nebulab and Super Good, three companies without Solidus and therefor also S3 wouldn't exist. 
 
+We aim to make S3: 
+- EU Ready by providing the logic for Privacy, B2B and B2C taxation and collect all data for einvoicing;
+- have a starter template ready for operation including Google Analytics and Structured Data
+- Provide a stock integration to ERPNext
+
 ---
 
 About **GMS**, the maintainer of S3-STORE:
