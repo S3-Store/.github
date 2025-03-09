@@ -4,7 +4,7 @@
 
 ---
 
-> [!NOTE]  
+> [!Caution]  
 > The [S3-Store Project](https://github.com/orgs/S3-Store/projects/1) is work in progress and is not yet production ready.
 
 The **S3_STORE** is a modern eCommerce System built for today's requirements.
