@@ -18,7 +18,7 @@ We would like to personally dedicate this website to Blish, Nebulab and Super Go
 We aim to make S3: 
 - EU Ready by providing the logic for Privacy, B2B and B2C taxation and collect all data for einvoicing;
 - have a starter template ready for operation including Google Analytics and Structured Data;
-- Provide a stock integration to ERPNext.
+- Provide a stock and order integration to ERPNext.
 
 The current progress can be found in the [S3_Store project](https://github.com/orgs/S3-Store/projects/1).
 
